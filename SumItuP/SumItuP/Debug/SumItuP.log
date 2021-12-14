@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cl19noggles\dropbox\csf1\unit 2\sumitup\sumitup\source.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SumItuP.vcxproj -> C:\Users\Cl19noggles\Dropbox\CSF1\Unit 2\SumItuP\Debug\SumItuP.exe
+  SumItuP.vcxproj -> C:\Users\Cl19noggles\Dropbox\CSF1\Unit 2\SumItuP\Debug\SumItuP.pdb (Partial PDB)
