@@ -1,6 +1,7 @@
 .vs/
 [Dd]ebug/
 
+
 *.sln
 *.vcxproj
-*.filters
+*.vcxproj.filters
