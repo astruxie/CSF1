@@ -1,4 +1,0 @@
-﻿  Source.cpp
-c:\users\cl19noggles\dropbox\csf1\squarefeet\squarefeet\source.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  SquareFeet.vcxproj -> C:\Users\Cl19noggles\Dropbox\CSF1\SquareFeet\Debug\SquareFeet.exe
-  SquareFeet.vcxproj -> C:\Users\Cl19noggles\Dropbox\CSF1\SquareFeet\Debug\SquareFeet.pdb (Partial PDB)
